@@ -1,1 +1,1 @@
-Um chat criado utilizando Java que consegue comunicar em computadores dentro de uma mesma rede.
+A regular chat that communicates computers in the same network, by using the tcp/ip protocol and sockes.
